@@ -13,6 +13,7 @@
 		4F1810162003A31700FFD92B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F1810152003A31700FFD92B /* Assets.xcassets */; };
 		4F1810192003A31700FFD92B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F1810172003A31700FFD92B /* LaunchScreen.storyboard */; };
 		4F1810212003BBA100FFD92B /* GuitarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F1810202003BBA100FFD92B /* GuitarViewController.swift */; };
+		4F1810232003C0BB00FFD92B /* PianoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F1810222003C0BB00FFD92B /* PianoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4F1810182003A31700FFD92B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4F18101A2003A31700FFD92B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4F1810202003BBA100FFD92B /* GuitarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuitarViewController.swift; sourceTree = "<group>"; };
+		4F1810222003C0BB00FFD92B /* PianoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PianoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				4F1810172003A31700FFD92B /* LaunchScreen.storyboard */,
 				4F18101A2003A31700FFD92B /* Info.plist */,
 				4F1810202003BBA100FFD92B /* GuitarViewController.swift */,
+				4F1810222003C0BB00FFD92B /* PianoViewController.swift */,
 			);
 			path = Chords;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			files = (
 				4F1810112003A31700FFD92B /* ViewController.swift in Sources */,
 				4F1810212003BBA100FFD92B /* GuitarViewController.swift in Sources */,
+				4F1810232003C0BB00FFD92B /* PianoViewController.swift in Sources */,
 				4F18100F2003A31700FFD92B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
